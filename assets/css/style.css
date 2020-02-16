@@ -1,0 +1,395 @@
+
+body{
+    margin: 0;
+    background-color: rgb(246, 117, 144);  
+    
+    font-family: 'Poppins', sans-serif ;
+    
+}
+.container{
+    background-color: #f66483;
+
+    margin: 95.5px 136.5px 0 136.5px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width: 54px;
+    height: 35px;
+    padding: 29px 0px 0 15px;
+}
+.cursor{
+   font-size: 24px;
+   font-weight: lighter;
+   color: #fff;
+   padding: 22px 15px 0 0;
+   display: flex;
+}
+.curtext{
+    margin: 0px 67px 0 0;
+    display: none;
+    
+  
+}
+
+#cl{
+    display: none;
+}
+.curtext a{
+    font-size: 12.5px;
+    font-weight: 550;
+    color: #fff;
+    text-decoration: none;
+    margin: 0 44px 0 0;
+}
+.headercontent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 -7px 0;
+}
+.himg {
+    width: 37%;
+    margin: 30px 0px 0px 0px;
+}
+.content{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif,"poppins";
+    font-style: initial;
+    color: #fff;
+    margin: 0px 33px 0px -17px;
+    letter-spacing: 0.5px;
+}
+.content h1{
+
+        font-size: 40px;
+        font-weight:640;
+        margin: 0;
+        line-height: 42.2px;
+        
+}
+.content p{
+    
+    font-size: 15px;
+    padding: 0 0 15px 0;
+    font-weight: 350;
+
+}
+.content button:hover{
+    background-color:#f66483;
+    
+
+}
+#but{
+    border-radius: 2em;
+    border-style: solid;
+    border: 1px solid;
+    border-color: #ffff;
+    padding: 11px 32px 11px 32px;
+  font-weight: 350;
+  font-size: 13px;
+  transition: 0.2s;
+}
+#but i{
+    font-size:10px;
+    padding: 0 0 0 6px;
+   
+}
+.container2{
+    background-color: #fff;
+    margin: 0 136.5px 0 136.5px;
+}
+.details{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 77.5px;
+}
+.det img{
+    width: 100%;
+}
+.text{
+    font-family: 'Poppins', sans-serif; 
+    position: relative;
+    top: -14px;
+    left: -5px;
+}
+
+.text h2{
+    font-weight: 500;
+    font-size: 18px;
+}
+.text p{
+    font-size: 14px;
+    color: #777777;
+}
+.text h4{
+    font-weight: 100;
+    font-size: 14px;
+}
+.mix{
+    display: flex;
+    padding-top: 77.5px;
+
+
+}
+.mount img{
+    width: 100%;
+}
+.mount{
+    position: relative;
+}
+
+.m{
+    font-family: 'Poppins', sans-serif ;
+    margin-top: 300px;
+    
+  position: absolute ;
+  width: 100%;
+  top: 0;
+  text-align: center;
+  color: #fff;
+  
+}
+.m p{
+    font-size: 14px;
+    font-weight: 300;
+}
+.m h2{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.g{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ga {
+    display: flex;
+    margin: 0 5px 0 16px;
+
+}
+.gb {
+    display: flex;
+
+}
+.s{
+    width: 31%;
+    height: 200px;
+    padding: 0 32px 0 0px;
+    object-fit: cover;
+}
+.sa{
+    width: 64%;
+    height: 200px;
+    object-fit: cover;
+}
+#ab{
+    
+        padding: 84px 15px 28px 15px;
+}
+#ad{
+    padding: 28px 14px 0 15px;
+}
+.desc{
+    background-color: #f9faff;
+    margin-top: 72px;
+    padding: 100px 15px 100px 15px;
+    
+}
+.des {
+   
+    background-color: #fff;
+       
+}
+.descdet{
+    font-family: 'Poppins', sans-serif ;
+    margin: -19px 0px 0px 9px
+    
+}
+.descdet h2{
+    font-size: 18px;
+    font-weight: 500;
+    
+
+}
+.descdet p{
+    color: #777777;
+    font-size: 14px;
+    font-weight: 300;
+    margin: -10px 0 0 0;
+}
+.des{
+    width: 68px;
+    height: 73px;
+    
+}
+.des img{
+    width: 57%;
+    margin: 17.5px 15px 17.5px 15px
+}
+.sit{
+    display: flex;
+    justify-content: center;
+    padding: 0 29px 0 0;
+}
+.font1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+.font2{
+    display: flex;
+    justify-content: center;
+}
+.aboutimg{
+    width: 100%;
+}
+.aboutimg img{
+    width:100%;
+}
+.about{
+    display: flex;
+   
+    
+}
+.abtext{
+    text-align: center;
+    width: 100%;
+}
+.abouttext h2{
+    margin: 95px 204px 0 0;
+    font-size: 18px;
+    font-weight: 500;
+}
+#sda{
+    margin: 11px 158px 0 0;
+}
+.abouttext p{
+    text-align: justify;
+    margin: 10px 0 0 68px;
+    color: #777777;
+    font-size: 14px;
+    font-weight: 300;
+}
+.contsubs{
+    background-color:#f67590;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 45px 0 45px 0;
+    margin: -7px 0 0 0;
+
+}
+
+.adders input{
+    padding: 0px;
+    line-height: 50px;
+    border: none;
+    background:#fff;
+    font-weight: 300;
+   margin: 0 0 0 21px;
+   width: 65%;
+}
+
+.adders input:focus{
+    outline: 0;
+
+}
+.adders input::placeholder{
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif ;
+    
+
+}
+
+.adders button{
+    border-radius: 25px;
+    border: 0;
+    width: 173.27px;
+    height: 42px;
+    background-color: #f67590;
+    color: #fff;
+        font-weight: bold;
+        
+}
+.adders i{
+    margin: 0 0 0 5px;
+}
+
+.adders{
+    width: 600px;
+    background-color: #fff;
+    border-radius: 25px;
+    
+    
+}
+.subtext h3{
+    font-size: 24px;
+    font-weight: 550;
+    margin: 0em;
+    
+}
+
+.subtext{
+    color: #fff;
+}
+.subtext{
+    font-size: 14px;
+    margin: 14px 0 25px 0;
+}
+#enter{
+    font-size: 12px;
+    margin: 10px 0 0 0;
+}
+
+footer{
+    margin-bottom: 90px;
+}
+
+.copy img{
+    width: 100%;
+    object-fit: initial;
+    
+
+}
+.copy{
+    position: relative; 
+    line-height: 0;
+}
+
+.cpytext{
+    position: absolute;
+    top:30%;
+    bottom: 30%;
+    left: 25%;
+    right: 25%;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 300px;
+}
+.cpytext p a{
+    color: black;
+    text-decoration: none;
+
+}
+.social {
+    display: block;
+    text-align: center;
+    color: #fff;
+    margin: 15px;
+}
+
+.social i{
+    color: #fff;
+  padding: 15px;
+  font-size: 13px;
+}
+.social i:hover{
+    color: black;
+    transition: 0.3s;
+}
